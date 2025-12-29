@@ -1,12 +1,12 @@
 # Hi 👋, I'm Denis Lindner
 
-🚀 **Studant Software Engineer | Java & Typescript Advanced**  
+🚀 **Student Software Engineer | Advanced Java & TypeScript**  
 🇧🇷 Brazil
 
 I build **personal projects** and **Micro-SaaS platforms**.  
 I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
 
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+I also create content and share knowledge about **software development, SaaS, and tech entrepreneurship**.
 
 ---
 
