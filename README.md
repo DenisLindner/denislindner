@@ -1,6 +1,6 @@
 # Hi 👋, I'm Denis Lindner
 
-🚀 **Student Software Engineer | Advanced Java & TypeScript**  
+🚀 **Software Engineer | Advanced Java & TypeScript**  
 🇧🇷 Brazil
 
 I build **personal projects** and **Micro-SaaS platforms**.  
